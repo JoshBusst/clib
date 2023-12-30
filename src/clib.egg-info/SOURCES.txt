@@ -1,0 +1,13 @@
+LICENCE
+README.md
+pyproject.toml
+src/clib/__init__.py
+src/clib/graphics.py
+src/clib/lib.py
+src/clib/main.py
+src/clib/physics.py
+src/clib/ui.py
+src/clib.egg-info/PKG-INFO
+src/clib.egg-info/SOURCES.txt
+src/clib.egg-info/dependency_links.txt
+src/clib.egg-info/top_level.txt
